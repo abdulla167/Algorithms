@@ -5,7 +5,7 @@ Our program role to determine the threshold which the system should exceed to pe
 we should make this experiment more than one time and get average or mean to this result to get threshold for the system to percolate, then we get the interval where the system will percolate with confidence 95 %.
 
 ![](wkwKd.png)
-# What is the role of the application ?
+# Implementation
 I have implemented two classes
 #### Percolation.java: 
 1) initializing the grid with nxn blocked sites by constructor.
